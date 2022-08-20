@@ -104,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "emailgui"
+  "defaultProject": "emailgui",
+  "cli": {
+    "analytics": "640cf476-e600-442e-b482-792f11d7e687"
+  }
 }
